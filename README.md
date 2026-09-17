@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @RinsunaMahani
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: NAH I'D WIN!
-- ⚡ Fun fact: ...
+### Hi, I'm Rinsuna Mahani 👋
 
-<!---
-RinsunaMahani/RinsunaMahani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student based in Pretoria, South Africa, studying at Sefako Makgatho Health Sciences University (SMU).
+
+- 🔭 Currently building practical Java applications, including a database-backed Bank Management system
+- 🌱 Learning more about backend development, databases, and software design
+- 💞️ Open to collaborating on Java, backend, or academic software projects
+- 📫 Reach me at rinsunamahani@gmail.com
